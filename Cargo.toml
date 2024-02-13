@@ -1,0 +1,16 @@
+[package]
+name = "tai64n"
+version = "0.0.1"
+authors = ["Yonas Yanfa <yonas@mail.lan>"]
+readme = "README.md"
+license = "MIT"
+publish = false
+edition = "2021"
+
+[dependencies]
+log = "*"
+env_logger = "*"
+tai64 = "*"
+chrono = "*"
+hex = "*"
+clap = { 'version' = "*", features = ['derive'] }

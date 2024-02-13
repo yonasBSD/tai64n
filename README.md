@@ -1,2 +1,2 @@
 # tai64n
-Display time with nanosecond percesion
+Display time with nanosecond precision
